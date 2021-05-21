@@ -39,7 +39,7 @@ L1 loss used for the sum part - treated as regression problem
 Trained for 20 epochs, Adam optimizer, LR: 3e-4
 
 
-MNIST Classification accuracy achieves 99.2, Sum achieves an accuracy of 58.7
+MNIST Classification accuracy achieves 99.3, Sum achieves an accuracy of 78.3
 
 ## Improvements
 
