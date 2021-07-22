@@ -60,7 +60,7 @@ for i in range(input_tensor.size()[0]):
 (torch.Size([10, 256]), torch.Size([1, 1, 256]), torch.Size([1, 1, 256]))
 ```
 
-### Decodeer
+### Decoder
 
 ```
 decoded_words = []
