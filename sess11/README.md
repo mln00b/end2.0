@@ -119,3 +119,9 @@ print(decoded_words)
    8. Decoder is fed the attention applied inputs, and the current hidden state
    9. We apply `Relu` activation on decoder's output, feed it into a linear layer + Softmax to get the final values
    10. The top index of the softmax result is the translated word we want.
+   
+Output:
+```
+> print(decoded_words)
+['insecure', 'sisters']
+```
